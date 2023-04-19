@@ -8,7 +8,7 @@ I'm also a full-stack engineer and a UI designer, who uses Angular *(frontend)*,
 
 ### Experience ✨
 I started programming when I was 11. I didn't take it too seriously and was just playing around with some code.  
-Then as I was turning 12, I got interested in Discord bot programming with JavaScript. It was a rogue start, though I managed to continue doing so!  
+Then as I was turning 14, I got interested in Discord bot programming with JavaScript. It was a rogue start, though I managed to continue doing so!  
 I started to take it more seriously from there on and learned many languages and conecepts throught high school and university.  
 It was a fun journey. I've discovered a lot of knowledge which I'd have probably never get to have if I didn't have the motivation to do so.  
 
