@@ -9,13 +9,13 @@ I'm also a full-stack engineer and a UI designer, who uses Angular *(frontend)*,
 ### How it started 🌱
 I started programming when I was 11. I didn't take it too seriously and was just playing around with some code.  
 Then as I was turning 14, I got interested in Discord bot programming with JavaScript. It was a rogue start, though I managed to continue doing so!  
-I started to take it more seriously from there on and learned many languages and conecepts throught high school and university.  
-It was a fun journey. I've discovered a lot of knowledge which I'd have probably never get to have if I didn't have the motivation to do so.
+I started to take it more seriously from there on and learned many languages and concepts throught high school and university.  
+It was a fun journey. I've discovered a lot of knowledge which I probably would never get to learn if I didn't have the motivation to do so.
 
 ### Experience ✨
 I have experience in developing web applications and desktop software using languages such as Python, Java, JavaScript and C.<br>
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Python.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="java" alt="java" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/java.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Javascript.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="c" alt="c" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/c.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
-i also have a great understand of MediaWiki and have created and maintained multiple large scale Wikis📑<br>
+i also have a great understanding of MediaWiki and have created and maintained multiple large scale Wikis📑<br>
 <img title="MediaWiki" alt="MediaWiki" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/MediaWiki.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
 i have an intermediate understanding of PL/SQL and I'm proficient in using popular frameworks like Angular and Bootstrap.<br><img title="sql" alt="sql" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/sql.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="angular" alt="angular" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/angular.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="bootstrap" alt="bootstrap" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/bootstrap.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
 
