@@ -1,5 +1,7 @@
 # [Website](https://koussay-akchi-cv.web.app/)
 
+# [Version Francaise](https://github.com/Koussay-Akchi/Koussay-Akchi/blob/main/READMEFR.md)
+
 # Hello! 👋
 
 ### About Me 
@@ -15,8 +17,8 @@ I started to take it more seriously from there on and learned many languages and
 It was a fun journey. I've discovered a lot of knowledge which I probably would never get to learn if I didn't have the motivation to do so.
 
 ### Experience ✨
-I have experience in developing web applications and desktop software using languages such as Python, Java, JavaScript and C.<br>
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Python.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="java" alt="java" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/java.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Javascript.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="c" alt="c" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/c.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
+I have experience in developing web applications and desktop software using languages such as Python, Java, JavaScript, C and C#.<br>
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Python.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="java" alt="java" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/java.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Javascript.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="c" alt="c" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/c.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="c-sharp" alt="c-sharp" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/c-sharp.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
 i also have a great understanding of MediaWiki and have created and maintained multiple large scale Wikis📑<br>
 <img title="MediaWiki" alt="MediaWiki" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/MediaWiki.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
 i have an intermediate understanding of PL/SQL and I'm proficient in using popular frameworks like Angular and Bootstrap.<br><img title="sql" alt="sql" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/sql.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="angular" alt="angular" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/angular.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="bootstrap" alt="bootstrap" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/bootstrap.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
@@ -34,6 +36,8 @@ At first, I was just copy-pasting code. Which is a really bad practice, but even
 ### Projects 🔭
 most of my projects are purely **for personal use**, though I haven't done many public projects with other collabrators, I can list them all here.  
  - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/): a university project coded in ~2 months for university. I contribute nearly all of the front-end and back-end code for this website. 👉 Here is a [Live website](https://projet-pet.web.app/)
+- [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projects about managing electronic vouchers, using different methodologies (Entity framework and raw SQL queries)
+
 ### Thank you 💖
 Thank you for taking the time to read , I appreciate it! Feel free to check out my projects and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something!
 
