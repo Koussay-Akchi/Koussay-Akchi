@@ -18,12 +18,8 @@ It was a fun journey. I've discovered a lot of knowledge which I probably would 
 
 ### Experience ✨
 I have experience in developing web applications and desktop software using languages such as Python, Java, JavaScript, C and C#.<br>
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Python.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="java" alt="java" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/java.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/Javascript.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="c" alt="c" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/c.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="c-sharp" alt="c-sharp" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/c-sharp.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
 i also have a great understanding of MediaWiki and have created and maintained multiple large scale Wikis📑<br>
-<img title="MediaWiki" alt="MediaWiki" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/MediaWiki.png" width="40" height="40" style="vertical-align:down; margin:4px"/><br>
-i have an intermediate understanding of PL/SQL and I'm proficient in using popular frameworks like Angular and Bootstrap.<br><img title="sql" alt="sql" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/sql.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="angular" alt="angular" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/angular.png" width="40" height="40" style="vertical-align:down; margin:4px"/> <img title="bootstrap" alt="bootstrap" src="https://raw.githubusercontent.com/Koussay-Akchi/Koussay-Akchi/main/images/bootstrap.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
-
-
+i have an intermediate understanding of PL/SQL and I'm proficient in using popular frameworks like Angular and Bootstrap.<br>
 
 In addition to my technical skills, I value communication, teamwork, and continuous learning. I'm always looking for ways to improve my skills and contribute to the community.
 
