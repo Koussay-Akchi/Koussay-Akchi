@@ -1,26 +1,19 @@
 # [Site Web](https://koussay-akchi-cv.web.app/)
 
-# Bonjour ! 👋
-
-### À Propos de Moi 
+## Bonjour ! 👋
 Je suis un développeur de logiciels passionné avec un fort intérêt pour les concepts d'automatisation et les technologies open-source. Mon profil GitHub présente mes contributions à divers projets personnels ainsi que mon enthousiasme pour collaborer avec d'autres membres de la communauté technologique.
 
 Je viens de Tunisie et j'ai de l'expérience avec des langages de haut niveau.  
-Je suis également un ingénieur full-stack et un concepteur d'UI, qui utilise Angular *(frontend)*, Java EE/C# *(backend)* et Figma *(conception d'UI)*.  
+Je suis également un ingénieur full-stack et un concepteur d'UI, qui utilise React/Angular *(frontend)*, Qyarkus Java *(backend)* et Figma *(conception d'UI)*.  
+
+![](https://raw.githubusercontent.com/Koussay-Akchi/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Koussay-Akchi/github-stats/master/generated/languages.svg)
 
 ### Comment tout a commencé 🌱
 J'ai commencé à programmer quand j'avais 11 ans. Je ne prenais pas cela trop au sérieux et je m'amusais juste avec du code.  
 Ensuite, vers l'âge de 14 ans, je me suis intéressé à la programmation de bots Discord avec JavaScript. C'était un début chaotique, bien que j'aie réussi à continuer !  
 J'ai commencé à prendre cela plus au sérieux à partir de là et j'ai appris de nombreux langages et concepts tout au long de l'école secondaire et de l'université.  
 Ce fut un voyage amusant. J'ai découvert beaucoup de connaissances que je n'aurais probablement jamais pu apprendre sans la motivation de le faire.
-
-### Expérience ✨
-J'ai de l'expérience dans le développement d'applications web et de logiciels de bureau en utilisant des langages tels que Python, Java, JavaScript, C et C#.<br>
-J'ai également une excellente compréhension de MediaWiki et j'ai créé et maintenu plusieurs wikis à grande échelle📑<br>
-J'ai une compréhension intermédiaire de PL/SQL et je suis compétent dans l'utilisation de frameworks populaires comme Angular et Bootstrap.<br>
-
-En plus de mes compétences techniques, j'accorde de l'importance à la communication, au travail d'équipe et à l'apprentissage continu. Je suis toujours à la recherche de moyens pour améliorer mes compétences et contribuer à la communauté.
-
 
 ### Motivation 💦
 Quand j'ai commencé au début, je n'avais aucune motivation du tout. Je m'amusais juste avec du code. Si ça marche, tant mieux. Si ça ne marche pas, tant pis. 
@@ -29,7 +22,9 @@ Au début, je me contentais de copier-coller du code. Ce qui est une très mauva
 
 ### Projets 🔭
 La plupart de mes projets sont purement **à usage personnel**, bien que je n'aie pas fait beaucoup de projets publics avec d'autres collaborateurs, je peux tous les énumérer ici.  
- - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/) : un projet universitaire codé en ~2 mois pour l'université. J'ai contribué à presque tout le code front-end et back-end de ce site web. 👉 Voici un [site web en direct](https://projet-pet.web.app/)
+- [FTLAutosaveManager](https://github.com/Koussay-Akchi/FTLAutosaveManager/) : interface graphique avec sauvegarde automatique en 1 clic et gestionnaire de sauvegarde pour le jeu vidéo FTL.
+- [Safe-driving](https://github.com/Koussay-Akchi/safe-driving/) : un projet universitaire codé en ~2 semaines. Application de machine learning pour détecter et suivre les voitures dans les vidéos avec YOLO et SSIM, avec reconnaissance de plaque d'immatriculation via OCR. Compilation d'images annotées dans une vidéo finale.
+ - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/) : un projet universitaire codé en ~1 moi. J'ai contribué à presque tout le code front-end et back-end de ce site web.
 - [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projets concernant la gestion de bons électroniques, en utilisant différentes méthodologies (Entity Framework et requêtes SQL brutes)
 
 ### Merci 💖
