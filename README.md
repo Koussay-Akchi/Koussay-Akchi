@@ -2,27 +2,20 @@
 
 # [Version Francaise](https://github.com/Koussay-Akchi/Koussay-Akchi/blob/main/READMEFR.md)
 
-# Hello! 👋
-
-### About Me 
+## Hello! 👋
 I'm a passionate software developer with a strong interest in the concepts of automation and open-source technologies. My GitHub profile showcases my contributions to various personal projects and my enthusiasm for collaborating with others in the tech community.
 
 I'm from Tunisia and I have experience with high level languages.  
-I'm also a full-stack engineer and a UI designer, who uses Angular *(frontend)*, Java EE *(backend)* and Figma *(UI designing)*.  
+I'm also a full-stack engineer and a UI designer, who uses Angular *(frontend)*, Quarkus Java *(backend)* and Figma *(UI designing)*.  
+
+![](https://raw.githubusercontent.com/Koussay-Akchi/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Koussay-Akchi/github-stats/master/generated/languages.svg)
 
 ### How it started 🌱
 I started programming when I was 11. I didn't take it too seriously and was just playing around with some code.  
 Then as I was turning 14, I got interested in Discord bot programming with JavaScript. It was a rogue start, though I managed to continue doing so!  
 I started to take it more seriously from there on and learned many languages and concepts throught high school and university.  
 It was a fun journey. I've discovered a lot of knowledge which I probably would never get to learn if I didn't have the motivation to do so.
-
-### Experience ✨
-I have experience in developing web applications and desktop software using languages such as Python, Java, JavaScript, C and C#.<br>
-i also have a great understanding of MediaWiki and have created and maintained multiple large scale Wikis📑<br>
-i have an intermediate understanding of PL/SQL and I'm proficient in using popular frameworks like Angular and Bootstrap.<br>
-
-In addition to my technical skills, I value communication, teamwork, and continuous learning. I'm always looking for ways to improve my skills and contribute to the community.
-
 
 ### Motivation 💦
 When I started at first, I had no motivation at all. I was just playing around with some code. If it works, it works. If it doesn't, it just doesn't. 
@@ -31,7 +24,10 @@ At first, I was just copy-pasting code. Which is a really bad practice, but even
 
 ### Projects 🔭
 most of my projects are purely **for personal use**, though I haven't done many public projects with other collabrators, I can list them all here.  
- - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/): a university project coded in ~2 months for university. I contribute nearly all of the front-end and back-end code for this website. 👉 Here is a [Live website](https://projet-pet.web.app/)
+ - [FTLAutosaveManager](https://github.com/Koussay-Akchi/FTLAutosaveManager/): GUI with 1-click autosave and back-up manager for the videogame FTL.
+ - [Safe-driving](https://github.com/Koussay-Akchi/safe-driving/): a university project coded in ~2 weeks. Al machine learning application to detect and track cars in videos with YOLO and
+SSIM, with license plate recognition via OCR. Compilation of annotated images into a final video.
+ - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/): a university project coded in ~1 month. I contribute nearly all of the front-end and back-end code for this website. 👉 Here is a [Live website](https://projet-pet.web.app/)
 - [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projects about managing electronic vouchers, using different methodologies (Entity framework and raw SQL queries)
 
 ### Thank you 💖
