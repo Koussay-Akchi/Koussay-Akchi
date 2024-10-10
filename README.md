@@ -27,6 +27,7 @@ most of my projects are purely **for personal use**, though I haven't done many 
  - [FTLAutosaveManager](https://github.com/Koussay-Akchi/FTLAutosaveManager/): GUI with 1-click autosave and back-up manager for the videogame FTL.
  - [Safe-driving](https://github.com/Koussay-Akchi/safe-driving/): a university project coded in ~2 weeks. Al machine learning application to detect and track cars in videos with YOLO and
 SSIM, with license plate recognition via OCR. Compilation of annotated images into a final video.
+- [Sound-Grid](https://github.com/Koussay-Akchi/soundgrid): An interactive sound grid where users can compose simple musical patterns by toggling individual cells in a grid. made with React and Typescript, [live website](https://soundgrid.web.app/)
 - [Basic Minesweeper](https://github.com/Koussay-Akchi/minesweeper): Minesweeper clone made with React and vanilla JavaScript, [live website](https://basic-minesweeper.web.app/)
  - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/): a university project coded in ~1 month. I contributed nearly all of the front-end and back-end code for this website.
 - [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projects about managing electronic vouchers, using different methodologies (Entity framework and raw SQL queries)
