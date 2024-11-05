@@ -6,7 +6,7 @@
 I'm a passionate software developer with a strong interest in the concepts of automation and open-source technologies. My GitHub profile showcases my contributions to various personal projects and my enthusiasm for collaborating with others in the tech community.
 
 I'm from Tunisia and I have experience with high level languages.  
-I'm also a full-stack engineer and a UI designer, who uses Angular *(frontend)*, Quarkus Java *(backend)* and Figma *(UI designing)*.  
+I'm also a full-stack engineer and a UI designer, who uses React *(frontend)*, Quarkus Java *(backend)* and Figma *(UI designing)*.  
 
 ![](https://raw.githubusercontent.com/Koussay-Akchi/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Koussay-Akchi/github-stats/master/generated/languages.svg)
