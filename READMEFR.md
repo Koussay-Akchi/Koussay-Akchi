@@ -26,6 +26,7 @@ La plupart de mes projets sont purement **à usage personnel**, bien que je n'ai
 - [Safe-driving](https://github.com/Koussay-Akchi/safe-driving/) : un projet universitaire codé en ~2 semaines. Application de machine learning pour détecter et suivre les voitures dans les vidéos avec YOLO et SSIM, avec reconnaissance de plaque d'immatriculation via OCR. Compilation d'images annotées dans une vidéo finale.
 - [Sound-Grid](https://github.com/Koussay-Akchi/soundgrid): Une grille sonore interactive où les utilisateurs peuvent composer des motifs musicaux simples en basculant des cellules individuelles dans une grille. réalisé avec React et TypeScript, [site web](https://soundgrid.web.app/)
  - [Basic Minesweeper](https://github.com/Koussay-Akchi/minesweeper) : Clone de Minesweeper réalisé avec React et JavaScript, [site Web](https://basic-minesweeper.web.app/)
+- [GridImgViewer](https://github.com/Koussay-Akchi/gridImgViewer): Outil de tri d'images 2x2 simple et rapide. Ouvrez un dossier, affichez quatre vignettes, supprimez/copiez avec des raccourcis, annulez, calculez des statistiques. Développé avec Python (Tkinter).
  - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/) : un projet universitaire codé en ~1 moi. J'ai contribué à presque tout le code front-end et back-end de ce site web.
 - [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projets concernant la gestion de bons électroniques, en utilisant différentes méthodologies (Entity Framework et requêtes SQL brutes)
 
