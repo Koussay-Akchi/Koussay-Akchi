@@ -29,6 +29,7 @@ most of my projects are purely **for personal use**, though I haven't done many 
 SSIM, with license plate recognition via OCR. Compilation of annotated images into a final video.
 - [Sound-Grid](https://github.com/Koussay-Akchi/soundgrid): An interactive sound grid where users can compose simple musical patterns by toggling individual cells in a grid. made with React and Typescript, [live website](https://soundgrid.web.app/)
 - [Basic Minesweeper](https://github.com/Koussay-Akchi/minesweeper): Minesweeper clone made with React and vanilla JavaScript, [live website](https://basic-minesweeper.web.app/)
+- [GridImgViewer](https://github.com/Koussay-Akchi/gridImgViewer): Simple, fast 2x2 image triage tool. Open a folder, view four thumbnails, delete/copy with hotkeys, undo, calculate stats. Built with Python (Tkinter)
  - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/): a university project coded in ~1 month. I contributed nearly all of the front-end and back-end code for this website.
 - [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projects about managing electronic vouchers, using different methodologies (Entity framework and raw SQL queries)
 
