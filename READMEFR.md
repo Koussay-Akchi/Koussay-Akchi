@@ -1,4 +1,4 @@
-# [Site Web](https://koussay-akchi-cv.web.app/)
+# [Site Web](https://www.koussay.tn/)
 
 ## Bonjour ! 👋
 Je suis un développeur de logiciels passionné avec un fort intérêt pour les concepts d'automatisation et les technologies open-source. Mon profil GitHub présente mes contributions à divers projets personnels ainsi que mon enthousiasme pour collaborer avec d'autres membres de la communauté technologique.
@@ -24,8 +24,8 @@ Au début, je me contentais de copier-coller du code. Ce qui est une très mauva
 La plupart de mes projets sont purement **à usage personnel**, bien que je n'aie pas fait beaucoup de projets publics avec d'autres collaborateurs, je peux tous les énumérer ici.  
 - [FTLAutosaveManager](https://github.com/Koussay-Akchi/FTLAutosaveManager/) : interface graphique avec sauvegarde automatique en 1 clic et gestionnaire de sauvegarde pour le jeu vidéo FTL.
 - [Safe-driving](https://github.com/Koussay-Akchi/safe-driving/) : un projet universitaire codé en ~2 semaines. Application de machine learning pour détecter et suivre les voitures dans les vidéos avec YOLO et SSIM, avec reconnaissance de plaque d'immatriculation via OCR. Compilation d'images annotées dans une vidéo finale.
-- [Sound-Grid](https://github.com/Koussay-Akchi/soundgrid): Une grille sonore interactive où les utilisateurs peuvent composer des motifs musicaux simples en basculant des cellules individuelles dans une grille. réalisé avec React et TypeScript, [site web](https://soundgrid.web.app/)
- - [Basic Minesweeper](https://github.com/Koussay-Akchi/minesweeper) : Clone de Minesweeper réalisé avec React et JavaScript, [site Web](https://basic-minesweeper.web.app/)
+- [Sound-Grid](https://github.com/Koussay-Akchi/soundgrid): Une grille sonore interactive où les utilisateurs peuvent composer des motifs musicaux simples en basculant des cellules individuelles dans une grille. réalisé avec React et TypeScript, [site web](https://soundgrid.koussay.tn/)
+ - [Basic Minesweeper](https://github.com/Koussay-Akchi/minesweeper) : Clone de Minesweeper réalisé avec React et JavaScript, [site Web](https://minesweeper.koussay.tn/)
 - [GridImgViewer](https://github.com/Koussay-Akchi/gridImgViewer): Outil de tri d'images 2x2 simple et rapide. Ouvrez un dossier, affichez quatre vignettes, supprimez/copiez avec des raccourcis, annulez, calculez des statistiques. Développé avec Python (Tkinter).
  - [Projet-Pet](https://github.com/Koussay-Akchi/projetpet/) : un projet universitaire codé en ~1 moi. J'ai contribué à presque tout le code front-end et back-end de ce site web.
 - [Bon-achat-electronique](https://github.com/Koussay-Akchi/Bon-achat-electronique) : 2 projets concernant la gestion de bons électroniques, en utilisant différentes méthodologies (Entity Framework et requêtes SQL brutes)
