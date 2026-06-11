@@ -1,5 +1,7 @@
 # [Site Web](https://www.koussay.tn/)
 
+![](https://komarev.com/ghpvc/?username=Koussay-Akchi&color=blue&base=900)
+
 ## Bonjour ! 👋
 Je suis un développeur de logiciels passionné avec un fort intérêt pour les concepts d'automatisation et les technologies open-source. Mon profil GitHub présente mes contributions à divers projets personnels ainsi que mon enthousiasme pour collaborer avec d'autres membres de la communauté technologique.
 
