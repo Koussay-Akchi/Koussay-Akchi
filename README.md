@@ -2,7 +2,10 @@
 
 # [Version Francaise](https://github.com/Koussay-Akchi/Koussay-Akchi/blob/main/READMEFR.md)
 
+![](https://komarev.com/ghpvc/?username=Koussay-Akchi&color=blue&base=900)
+
 ## Hello! 👋
+
 I'm a passionate software developer with a strong interest in the concepts of automation and open-source technologies. My GitHub profile showcases my contributions to various personal projects and my enthusiasm for collaborating with others in the tech community.
 
 I'm from Tunisia and I have experience with high level languages.  
